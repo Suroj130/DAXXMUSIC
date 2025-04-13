@@ -20,7 +20,7 @@ from pytgcalls.types import (
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from BrandrdXMusic import LOGGER, YouTube, app
+from DAXXMUSIC import LOGGER, YouTube, app
 from DAXXMUSIC.misc import db
 from DAXXMUSIC.utils.database import (
     add_active_chat,
