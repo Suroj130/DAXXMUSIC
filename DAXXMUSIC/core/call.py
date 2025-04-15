@@ -10,7 +10,6 @@ from pytgcalls.exceptions import (
     AlreadyJoinedError,
     NoActiveGroupCall,
 )
-from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped, AudioVideoYTLive
 from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQualityVideo
 from pytgcalls.types.stream import StreamAudioEnded
 
