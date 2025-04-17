@@ -4,7 +4,6 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from DAXXMUSIC import YouTube, app
-from DAXXMUSIC.core.call import DAXX
 from DAXXMUSIC.misc import SUDOERS, db
 from DAXXMUSIC.utils.database import (
     get_active_chats,
