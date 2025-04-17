@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from DAXXMUSIC import LOGGER, app, userbot
-from DAXXMUSIC.core.call import DAXX
+from DAXXMUSIC.init import DAXX
 from DAXXMUSIC.misc import sudo
 from DAXXMUSIC.plugins import ALL_MODULES
 from DAXXMUSIC.utils.database import get_banned_users, get_gbanned
